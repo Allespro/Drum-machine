@@ -1,0 +1,8 @@
+s|samples/OneShots/Snare.wav
+a|samples/OneShots/Kick.wav
+p|samples/OneShots/HiHat.wav
+k|samples/OneShots/Effect1.wav
+i|samples/OneShots/Effect2.wav
+d|samples/OneShots/Effect3.wav
+w|samples/OneShots/Click1.wav
+e|samples/OneShots/Click2.wav
